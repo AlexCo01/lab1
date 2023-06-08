@@ -1,0 +1,639 @@
+# Design: Design LAB_1_Zhurman already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+runscript -do "C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do"
+# # simulation run script for switch_driver_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Top-level unit(s) detected:
+# Entity => switch_driver
+# Compile success 0 Errors 0 Warnings  Analysis time :  46.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+comp -include "$dsn\src\switch_driver_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb.vhd
+# Compile Entity "switch_driver_tb"
+# Compile Architecture "switch_driver_tb_arch" of Entity "switch_driver_tb"
+# Error: COMP96_0078: switch_driver_tb.vhd : (122, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (122, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (124, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (124, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (127, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (127, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (129, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (129, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (132, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (132, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (134, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (134, 3): Cannot find object declaration.
+# Error: COMP96_0078: switch_driver_tb.vhd : (137, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (137, 3): Cannot find object declaration.
+# Compile Configuration "switch_driver_tb_conf"
+# Error: COMP96_0209: switch_driver_tb.vhd : (150, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 15 Errors 0 Warnings  Analysis time :  15.0 [ms]
+# Error: DO_001 in file C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do line 5
+# Error: Cannot run C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do
+runscript -do "C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do"
+# # simulation run script for switch_driver_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\switch_driver_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb.vhd
+# Compile Entity "switch_driver_tb"
+# Compile Architecture "switch_driver_tb_arch" of Entity "switch_driver_tb"
+# Error: COMP96_0078: switch_driver_tb.vhd : (134, 3): Unknown identifier "sw".
+# Error: COMP96_0133: switch_driver_tb.vhd : (134, 3): Cannot find object declaration.
+# Compile Configuration "switch_driver_tb_conf"
+# Error: COMP96_0209: switch_driver_tb.vhd : (150, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+# Error: DO_001 in file C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do line 5
+# Error: Cannot run C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do
+runscript -do "C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb_runtest.do"
+# # simulation run script for switch_driver_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\switch_driver_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver_tb.vhd
+# Compile Entity "switch_driver_tb"
+# Compile Architecture "switch_driver_tb_arch" of Entity "switch_driver_tb"
+# Compile Configuration "switch_driver_tb_conf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+asim +access +r switch_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6474 kB (elbread=427 elab2=5907 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:26, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+wave
+wave -noreg clk
+wave -noreg rst
+wave -noreg swi
+wave -noreg rie
+wave -noreg fae
+wave -noreg lvl
+wave -noreg tgl
+wave -noreg lpr
+run 3 ms;
+# VSIM: 8 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+# KERNEL: stopped at time: 3 ms
+# VSIM: 1 object(s) traced.
+# VSIM: 1 object(s) traced.
+# VSIM: 1 object(s) traced.
+# VSIM: 1 object(s) traced.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+switch_driver_tb_conf switch_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6474 kB (elbread=427 elab2=5907 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:31, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+run
+endsim
+# KERNEL: stopped at time: 17729830 ns
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+switch_driver_tb_conf switch_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6474 kB (elbread=427 elab2=5907 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:32, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 300
+# KERNEL: stopped at time: 100300 ps
+run 300
+# KERNEL: stopped at time: 100600 ps
+run 300
+# KERNEL: stopped at time: 100900 ps
+run 300
+# KERNEL: stopped at time: 101200 ps
+run 300
+# KERNEL: stopped at time: 101500 ps
+run 300
+# KERNEL: stopped at time: 101800 ps
+run 300
+# KERNEL: stopped at time: 102100 ps
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+switch_driver_tb_conf switch_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6474 kB (elbread=427 elab2=5907 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:33, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+run 300
+# KERNEL: stopped at time: 300 ps
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+switch_driver_tb_conf switch_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6474 kB (elbread=427 elab2=5907 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:34, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+run 100us
+# KERNEL: stopped at time: 100 us
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+runscript -do "C:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb_runtest.do"
+# # simulation run script for led_driver_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\led_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver.vhd
+# Compile Entity "led_driver"
+# Compile Architecture "led_drv_arch" of Entity "led_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\led_driver_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb.vhd
+# Compile Entity "led_driver_tb"
+# Compile Architecture "led_driver_tb_arch" of Entity "led_driver_tb"
+# Compile Configuration "led_driver_tb_conf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+asim +access +r led_driver_tb_conf
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6468 kB (elbread=427 elab2=5902 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  23:43, 8 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/clk not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/rst not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/swi not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/rie not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/fae not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/lvl not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/tgl not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/lpr not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/UUT/sw_state_shiftreg not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/UUT/sw_fsm_state not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/UUT/sw_scan_counter not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+# Warning: WAVEFORM: Object matching /switch_driver_tb/UUT/lp_counter_en not found in c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb.
+wave
+wave -noreg clk
+wave -noreg rst
+wave -noreg mode
+wave -noreg led
+run 500 us
+# VSIM: 4 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+# KERNEL: stopped at time: 500 us
+endsim
+# VSIM: Simulation has finished.
+runscript -do "C:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\lab1_switch_led_tb_runtest_MAIN.do"
+# # simulation run script for lab1_switch_led_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\led_driver_tb.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb.vhd
+# Compile Entity "led_driver_tb"
+# Compile Architecture "led_driver_tb_arch" of Entity "led_driver_tb"
+# Compile Configuration "led_driver_tb_conf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\switch_led_tester.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_led_tester.vhd
+# Compile Entity "switch_led_tester"
+# Compile Architecture "switch_led_tester_arch" of Entity "switch_led_tester"
+# Warning: ELAB1_0026: switch_led_tester.vhd : (97, 0): There is no default binding for component "control_fsm". (No entity named "control_fsm" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  15.0 [ms]
+comp -include "$dsn\src\lab1_switch_led.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led.vhd
+# Compile Entity "lab1_switch_led"
+# Compile Architecture "lab1_switch_led_arch" of Entity "lab1_switch_led"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\lab1_switch_led_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led_tb.vhd
+# Compile Entity "lab1_switch_led_tb"
+# Compile Architecture "behavior" of Entity "lab1_switch_led_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+asim +access +r lab1_switch_led_tb
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.2 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U1/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U2/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U3/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U4/U2 : control_fsm not bound.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6491 kB (elbread=427 elab2=5922 kernel=141 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  0:05, 9 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+wave
+wave -noreg clk
+wave -noreg rst
+wave -noreg swi
+wave -noreg led
+wave -divider "switch_driver"
+# VSIM: 4 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+wave -noreg "uut/U1/U1/sw_state_shiftreg"
+wave -noreg "uut/U1/U1/sw_fsm_state"
+wave -noreg "uut/U1/U1/sw_scan_counter"  
+wave -noreg "uut/U1/U1/shiftreg_en"
+wave -noreg "uut/U1/U1/rie"
+wave -noreg "uut/U1/U1/fae
+wave -noreg "uut/U1/U1/lpr"    
+wave -noreg "uut/U1/U1/long_press_counter 
+# VSIM: No objects matching.
+wave -divider "control_fsm"
+# VSIM: 5 object(s) traced.
+wave -noreg "uut/U1/U2/fsm_state"
+# VSIM: No objects matching.
+wave -noreg "uut/U1/U2/led_mode_sig"   
+# VSIM: No objects matching.
+wave -divider "led_driver"
+wave -noreg "uut/U1/U3/counter_1"  
+wave -noreg "uut/U1/U3/wave_1sec"
+wave -noreg "uut/U1/U3/counter_2"  
+wave -noreg "uut/U1/U3/wave_100ms"
+run 3 ms;
+# VSIM: 4 object(s) traced.
+# KERNEL: stopped at time: 3 ms
+runscript -do "C:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\lab1_switch_led_tb_runtest_MAIN.do"
+# # simulation run script for lab1_switch_led_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\led_driver_tb.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb.vhd
+# Compile Entity "led_driver_tb"
+# Compile Architecture "led_driver_tb_arch" of Entity "led_driver_tb"
+# Compile Configuration "led_driver_tb_conf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\switch_led_tester.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_led_tester.vhd
+# Compile Entity "switch_led_tester"
+# Compile Architecture "switch_led_tester_arch" of Entity "switch_led_tester"
+# Warning: ELAB1_0026: switch_led_tester.vhd : (97, 0): There is no default binding for component "control_fsm". (No entity named "control_fsm" was found).
+# Compile success 0 Errors 1 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\lab1_switch_led.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led.vhd
+# Compile Entity "lab1_switch_led"
+# Compile Architecture "lab1_switch_led_arch" of Entity "lab1_switch_led"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+comp -include "$dsn\src\lab1_switch_led_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led_tb.vhd
+# Compile Entity "lab1_switch_led_tb"
+# Compile Architecture "behavior" of Entity "lab1_switch_led_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+asim +access +r lab1_switch_led_tb
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.2 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U1/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U2/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U3/U2 : control_fsm not bound.
+# ELBREAD: Warning: ELBREAD_0037 switch_led_tester.vhd (97): Component /lab1_switch_led_tb/uut/U4/U2 : control_fsm not bound.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6491 kB (elbread=427 elab2=5922 kernel=141 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  0:08, 9 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+wave
+wave -noreg clk
+wave -noreg rst
+wave -noreg swi
+wave -noreg led
+wave -divider "switch_driver"
+# VSIM: 4 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+wave -noreg "uut/U1/U1/sw_state_shiftreg"
+wave -noreg "uut/U1/U1/sw_fsm_state"
+wave -noreg "uut/U1/U1/sw_scan_counter"  
+wave -noreg "uut/U1/U1/shiftreg_en"
+wave -noreg "uut/U1/U1/rie"
+wave -noreg "uut/U1/U1/fae"
+wave -noreg "uut/U1/U1/lpr"    
+wave -noreg "uut/U1/U1/long_press_counter" 
+wave -divider "control_fsm"
+# VSIM: 8 object(s) traced.
+wave -noreg "uut/U1/U2/fsm_state"
+# VSIM: No objects matching.
+wave -noreg "uut/U1/U2/led_mode_sig"   
+# VSIM: No objects matching.
+wave -divider "led_driver"
+wave -noreg "uut/U1/U3/counter_1"  
+wave -noreg "uut/U1/U3/wave_1sec"
+wave -noreg "uut/U1/U3/counter_2"  
+wave -noreg "uut/U1/U3/wave_100ms"
+run 3 ms;
+# VSIM: 4 object(s) traced.
+# KERNEL: stopped at time: 3 ms
+runscript -do "C:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\lab1_switch_led_tb_runtest_MAIN.do"
+# # simulation run script for lab1_switch_led_tb
+# # to use in Avtive-HDL environment
+SetActiveLib -work
+comp -include "$dsn\src\switch_driver.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_driver.vhd
+# Compile Entity "switch_driver"
+# Compile Architecture "switch_drv_arch" of Entity "switch_driver"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+comp -include "$dsn\src\led_driver_tb.vhd"     
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb.vhd
+# Compile Entity "led_driver_tb"
+# Compile Architecture "led_driver_tb_arch" of Entity "led_driver_tb"
+# Compile Configuration "led_driver_tb_conf"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\control_fsm.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/control_fsm.vhd
+# Compile Entity "control_fsm"
+# Compile Architecture "control_fsm_arch" of Entity "control_fsm"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\switch_led_tester.vhd"    
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/switch_led_tester.vhd
+# Compile Entity "switch_led_tester"
+# Compile Architecture "switch_led_tester_arch" of Entity "switch_led_tester"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+comp -include "$dsn\src\lab1_switch_led.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led.vhd
+# Compile Entity "lab1_switch_led"
+# Compile Architecture "lab1_switch_led_arch" of Entity "lab1_switch_led"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+comp -include "$dsn\src\lab1_switch_led_tb.vhd"
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/lab1_switch_led_tb.vhd
+# Compile Entity "lab1_switch_led_tb"
+# Compile Architecture "behavior" of Entity "lab1_switch_led_tb"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+asim +access +r lab1_switch_led_tb
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6496 kB (elbread=427 elab2=5926 kernel=142 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  0:12, 9 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+wave
+wave -noreg clk
+wave -noreg rst
+wave -noreg swi
+wave -noreg led
+wave -divider "switch_driver"
+# VSIM: 4 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+wave -noreg "uut/U1/U1/sw_state_shiftreg"
+wave -noreg "uut/U1/U1/sw_fsm_state"
+wave -noreg "uut/U1/U1/sw_scan_counter"  
+wave -noreg "uut/U1/U1/shiftreg_en"
+wave -noreg "uut/U1/U1/rie"
+wave -noreg "uut/U1/U1/fae"
+wave -noreg "uut/U1/U1/lpr"    
+wave -noreg "uut/U1/U1/long_press_counter" 
+wave -divider "control_fsm"
+# VSIM: 8 object(s) traced.
+wave -noreg "uut/U1/U2/fsm_state"
+wave -noreg "uut/U1/U2/led_mode_sig"   
+wave -divider "led_driver"
+# VSIM: 2 object(s) traced.
+wave -noreg "uut/U1/U3/counter_1"  
+wave -noreg "uut/U1/U3/wave_1sec"
+wave -noreg "uut/U1/U3/counter_2"  
+wave -noreg "uut/U1/U3/wave_100ms"
+run 3 ms;
+# VSIM: 4 object(s) traced.
+# KERNEL: stopped at time: 3 ms
+# VSIM: 1 object(s) traced.
+run 1 ms
+# KERNEL: stopped at time: 4 ms
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+lab1_switch_led_tb lab1_switch_led_tb behavior
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Student Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6496 kB (elbread=427 elab2=5926 kernel=142 sdf=0)
+# KERNEL: ASDB file was created in location c:\My_Designs\LAB_1_Zhurman\LAB_1_Zhurman\src\wave.asdb
+#  0:18, 9 ?a?aiy 2023 ?.
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/wave.asdb'.
+run 1 ms
+# KERNEL: stopped at time: 1 ms
+# VSIM: 1 object(s) traced.
+endsim
+# VSIM: Simulation has finished.

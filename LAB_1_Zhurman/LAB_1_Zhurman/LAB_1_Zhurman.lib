@@ -1,0 +1,127 @@
+timestamp=1686261512715
+
+[~A]
+ModifyID=25
+Version=74
+
+[~MFT]
+0=4|0LAB_1_Zhurman.mgf|26103|4537
+1=4|1LAB_1_Zhurman.mgf|59345|40868
+3=2|3LAB_1_Zhurman.mgf|23651|15796
+
+[control_fsm]
+A/control_fsm_arch=21|../src/control_fsm.vhd|23|1*46318
+BinW64/control_fsm_arch=3*19261
+I=0*23130
+I/control_fsm_arch=0*24369
+M=11|2|vef|1686258736580|../src/control_fsm.vhd|0*22688*0x6789ddd69d9da1e0375acde318872eb6003b487d|0*23043*0x23b75c12e3e89f2ef000564498faa8c2
+M/control_fsm_arch=21|2|vef|1686258736582|../src/control_fsm.vhd|0*23375*0x64ff467b81372b8e9d3b4cb8793d828c23fead60|0*24262*0x20116f55b147878295aeff36dce7fc50
+R=../src/control_fsm.vhd|12
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|9d6070e56c8ff7862478d71549739c76f8423708ea93adf19743a25722165179247a59f83ad53690bf942f656ff9dc43
+Version/control_fsm_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|5fa47c4abb8a2ef842310cad406760538cfc58e0db52093bdf1b39ea11b42d7883214b0d8801fe922d1fe4c3db85631c
+
+[lab1_switch_led]
+A/lab1_switch_led_arch=21|../src/lab1_switch_led.vhd|23|1*51628
+BinW64/lab1_switch_led_arch=3*20715
+I=0*16440
+I/lab1_switch_led_arch=0*25010
+M=11|2|vef|1686258300353|../src/lab1_switch_led.vhd|0*15990*0x2893591676be3143750d5e1f62ea76b84bcc0955|0*16345*0x23b75c12e3e89f2ef000564498faa8c2
+M/lab1_switch_led_arch=21|2|vef|1686258737055|../src/lab1_switch_led.vhd|0*16649*0xcb49e22a7b9ac49795c2fcdee192b3f951c2dd4e|0*17790*0x20116f55b147878295aeff36dce7fc50
+R=../src/lab1_switch_led.vhd|11
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|0ea8601c1161a8d6b5f5ee5847ad208d0302120d4ab5ea2bc89cf70fc72893b565f286af4e5b6ea49831b28c83076377
+Version/lab1_switch_led_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|0ea8601c1161a8d6b5f5ee5847ad208d5d89b0be5b34ed43962bffe9450e1f57fa1dfff4cb94b89001bafdb027ce1b31
+
+[lab1_switch_led_tb]
+A/behavior=21|../src/lab1_switch_led_tb.vhd|16|1*53865
+BinW64/behavior=3*21335
+I=0*18627
+I/behavior=0*25280
+M=11|2|vef|1686258300581|../src/lab1_switch_led_tb.vhd|0*18321*0x7d4378baa55476131e838f7edf2e30ad185b56ce|0*18526*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavior=21|2|vef|1686258737280|../src/lab1_switch_led_tb.vhd|0*18839*0x27a8617138e64f5420da2a275995c585c973aa85|0*19953*0x20116f55b147878295aeff36dce7fc50
+R=../src/lab1_switch_led_tb.vhd|13
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|0ea8601c1161a8d6b5f5ee5847ad208d357b771ea6d617d5ddd12e019c038420521a802b8b55b6552094880ed58a5f2f
+Version/behavior=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|f9bccf16e2dce5a640f0ad5e8eaa0283e08d679eaf1bc9de9439630905b37e5f8737bff6f33438a5b4360dec827d48cc
+
+[led_driver]
+A/led_drv_arch=21|../src/led_driver.vhd|23|1*55679
+BinW64/led_drv_arch=3*22216
+I=0*7704
+I/led_drv_arch=0*25542
+M=11|2|vef|1686257021689|../src/led_driver.vhd|0*7250*0x822a5fc1384aaee75e556a002626c54aee35c686|0*7619*0x23b75c12e3e89f2ef000564498faa8c2
+M/led_drv_arch=21|2|vef|1686261512472|../src/led_driver.vhd|0*7948*0x4bff8f0ae003b1ba95a7199e7402c36c9ec7510c|0*8928*0x20116f55b147878295aeff36dce7fc50
+R=../src/led_driver.vhd|10
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|00bf7232b4d5ceb672c8d855e45b50edb6cb8f865411fc18548a8c9492b6c9f47216589c6f32de345a43297b41d75bcb
+Version/led_drv_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|ed021b91a85c58e8240ba370b52d68de6c5025752107229a9e4ab4611bb9e89358251e341d155902b9a1a7358dd00ebc
+
+[led_driver_tb]
+A/led_driver_tb_arch=21|../src/led_driver_tb.vhd|17|1*57309
+BinW64/led_driver_tb_arch=3*23651
+I=0*9836
+I/led_driver_tb_arch=0*25799
+M=11|2|vef|1686257021868|../src/led_driver_tb.vhd|0*9456*0xfb4c190fa57e9fc9388a885f93708259c6a9c358|0*9745*0x23b75c12e3e89f2ef000564498faa8c2
+M/led_driver_tb_arch=21|2|vef|1686261512705|../src/led_driver_tb.vhd|0*10083*0x8bb374be70b4c1c248a77ab252629f6fa818fde3|0*11059*0x20116f55b147878295aeff36dce7fc50
+R=../src/led_driver_tb.vhd|10
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|d8e1d0f1c30f5c21573446e6c0b08c22da31d743fa137f2b75fa8d7fac26c5296ad30690f663dea76e3cfbacd8c11fbf
+Version/led_driver_tb_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|d8e1d0f1c30f5c21573446e6c0b08c22a23966e275437ae71a623133ab159e932301bf13b6e7304edbc13379a8f1b4f3
+
+[led_driver_tb_conf]
+Configures=led_driver_tb.led_driver_tb_arch
+E=1*59345
+I=0*26103
+M=2|2|vef|1686261512708|../src/led_driver_tb.vhd|0*11476*0xf46e22992c5036fc67c4177c1caba4f38a0d1667|0*11763*0x20116f55b147878295aeff36dce7fc50
+R=../src/led_driver_tb.vhd|96
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|d8e1d0f1c30f5c21573446e6c0b08c22543aeb56e23ccdb02ecac9fd4b31b166039654601c4e6cf59a1660dd0f67265c
+
+[switch_driver]
+A/switch_drv_arch=21|../src/switch_driver.vhd|34|1*41196
+BinW64/switch_drv_arch=3*16104
+I=0*829
+I/switch_drv_arch=0*21738
+M=11|2|vef|1686255833001|../src/switch_driver.vhd|0*260*0x2b90080fa1aa782524f4ab2b5547bdcd7e2c9973|0*738*0x23b75c12e3e89f2ef000564498faa8c2
+M/switch_drv_arch=21|2|vef|1686258736119|../src/switch_driver.vhd|0*1076*0x61c140d638485955df53f2cff0f3e35d181759d8|0*2992*0x20116f55b147878295aeff36dce7fc50
+R=../src/switch_driver.vhd|14
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|08446f7ac43a48e2fe2a1c1ab7f1d0c182a79a468d4c03d5ed0a59aac7eabdd102926f004c55f426451c292479a37834
+Version/switch_drv_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|7d209b4b6db2085faf73b76a092508ed52460841bc3aa353841a55db9e20c66bc5f86349a129a6e54855f4eeb5ff9835
+
+[switch_driver_tb]
+A/switch_driver_tb_arch=21|../src/switch_driver_tb.vhd|17|1*7950
+BinW64/switch_driver_tb_arch=3*2279
+I=0*3939
+I/switch_driver_tb_arch=0*6089
+M=11|2|vef|1686255833314|../src/switch_driver_tb.vhd|0*3543*0xe8e6d05d0a2a48181cec63c2b791c5f5e6df8ff5|0*3842*0x23b75c12e3e89f2ef000564498faa8c2
+M/switch_driver_tb_arch=21|2|vef|1686255976790|../src/switch_driver_tb.vhd|0*4452*0xb3610077fa513d3e4096ab5fbb8a62f91a4d4089|0*5967*0x20116f55b147878295aeff36dce7fc50
+R=../src/switch_driver_tb.vhd|10
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|08446f7ac43a48e2fe2a1c1ab7f1d0c1ce4120e7bd36297a3d6d8ce447f1137e2056d3de9d0deebd83eeb99760ca0b58
+Version/switch_driver_tb_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|08446f7ac43a48e2fe2a1c1ab7f1d0c1f57f88c881d6cc3d07425931b836fe1bf92b9f6eb21916c9af1e8b676c582dba
+
+[switch_driver_tb_conf]
+Configures=switch_driver_tb.switch_driver_tb_arch
+E=1*10292
+I=0*6841
+M=2|2|vef|1686255976795|../src/switch_driver_tb.vhd|0*6403*0x4f1985249b2480bd6596f72e6674d6f0a0fa8c67|0*6720*0x20116f55b147878295aeff36dce7fc50
+R=../src/switch_driver_tb.vhd|149
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|08446f7ac43a48e2fe2a1c1ab7f1d0c10bc0bfe0215d873e541272af3c9d2bad166c244ee97c82bf2c81d5e69532dc88
+
+[switch_led_tester]
+A/switch_led_tester_arch=21|../src/switch_led_tester.vhd|24|1*47755
+BinW64/switch_led_tester_arch=3*20193
+I=0*13482
+I/switch_led_tester_arch=0*24631
+M=11|2|vef|1686258300111|../src/switch_led_tester.vhd|0*13014*0x8256ca35d80efc6b5b3d3c4fe59dd0652ad9e42e|0*13383*0x23b75c12e3e89f2ef000564498faa8c2
+M/switch_led_tester_arch=21|2|vef|1686258736820|../src/switch_led_tester.vhd|0*13733*0x6c4e6c6221bfb1cd4e6584a9548feb24b748542a|0*15468*0x20116f55b147878295aeff36dce7fc50
+R=../src/switch_led_tester.vhd|12
+Version=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|518c43569da8e160ffcdb21afcdf7d777f26f54eb911f2b6db66449be57b5920c423daf500fe24c6abc037537896fcfd
+Version/switch_led_tester_arch=13.0.376.8320 (Windows64)|00000003789cd3f5370600015b00b0|518c43569da8e160ffcdb21afcdf7d7728ab2b364ec4f215dbc7eea2bf76b816fc47a98df2bb6fc87239e5f6da8ca66b
+
+[~U]
+control_fsm=11|0*22468|
+lab1_switch_led=11|0*15741|
+lab1_switch_led_tb=11|0*18179|
+led_driver=11|0*7011|
+led_driver_tb=11|0*9286|
+led_driver_tb_conf=2||
+switch_driver=11|0*0|
+switch_driver_tb=11|0*3365|
+switch_driver_tb_conf=2||
+switch_led_tester=11|0*12768|
+

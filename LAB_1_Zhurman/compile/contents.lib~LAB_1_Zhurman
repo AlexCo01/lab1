@@ -1,0 +1,19 @@
+25
+~E 1 "../src/control_fsm.vhd" 12 control_fsm
+~A 1 "../src/control_fsm.vhd" 23 control_fsm_arch
+~E 1 "../src/lab1_switch_led.vhd" 11 lab1_switch_led
+~A 1 "../src/lab1_switch_led.vhd" 23 lab1_switch_led_arch
+~E 1 "../src/lab1_switch_led_tb.vhd" 13 lab1_switch_led_tb
+~A 1 "../src/lab1_switch_led_tb.vhd" 16 behavior
+~E 1 "../src/led_driver.vhd" 10 led_driver
+~A 1 "../src/led_driver.vhd" 23 led_drv_arch
+~E 1 "../src/led_driver_tb.vhd" 10 led_driver_tb
+~A 1 "../src/led_driver_tb.vhd" 17 led_driver_tb_arch
+~C 1 "../src/led_driver_tb.vhd" 96 led_driver_tb_conf
+~E 1 "../src/switch_driver.vhd" 14 switch_driver
+~A 1 "../src/switch_driver.vhd" 34 switch_drv_arch
+~E 1 "../src/switch_driver_tb.vhd" 10 switch_driver_tb
+~A 1 "../src/switch_driver_tb.vhd" 17 switch_driver_tb_arch
+~C 1 "../src/switch_driver_tb.vhd" 149 switch_driver_tb_conf
+~E 1 "../src/switch_led_tester.vhd" 12 switch_led_tester
+~A 1 "../src/switch_led_tester.vhd" 24 switch_led_tester_arch

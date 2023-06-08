@@ -1,0 +1,64 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="2cf05d21feadb645826484d552010b00">untitled.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/lab1_switch_led_tb/clk</signal>
+        <signal>/lab1_switch_led_tb/rst</signal>
+        <signal>/lab1_switch_led_tb/swi</signal>
+        <signal>/lab1_switch_led_tb/led</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/sw_state_shiftreg</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/sw_fsm_state</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/sw_scan_counter</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/shiftreg_en</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/RIE</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/FAE</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/LPR</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U1/long_press_counter</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U2/fsm_state</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U2/led_mode_sig</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/counter_1</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/wave_1sec</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/counter_2</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/wave_100ms</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/MODE</signal>
+        <signal>/lab1_switch_led_tb/uut/U1/U3/LED</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="1201754422" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+            <bookmark value="409356737"/>
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="430994165" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

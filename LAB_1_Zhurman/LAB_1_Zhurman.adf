@@ -1,0 +1,49 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=LAB_1_Zhurman
+[Library]
+LAB_1_Zhurman=.\LAB_1_Zhurman\LAB_1_Zhurman.lib
+[$LibMap$]
+LAB_1_Zhurman=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\sasha\Desktop\LAB\lab1\lab1_switch_led_tb
+[Files]
+/control_FSM.vhd=-1
+/lab1_switch_led.vhd=-1
+/led_driver.vhd=-1
+/switch_driver.vhd=-1
+/switch_led_tester.vhd=-1
+/switch_driver_tb.vhd=-1
+/led_driver_tb.vhd=-1
+/lab1_switch_led_tb.vhd=-1
+/switch_driver_tb_runtest.do=-1
+/led_driver_tb_runtest.do=-1
+/lab1_switch_led_tb_runtest.do=-1
+/lab1_switch_led_tb_runtest_MAIN.do=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+[Files.Data]
+.\src\control_FSM.vhd=VHDL Source Code
+.\src\lab1_switch_led.vhd=VHDL Source Code
+.\src\led_driver.vhd=VHDL Source Code
+.\src\switch_driver.vhd=VHDL Source Code
+.\src\switch_led_tester.vhd=VHDL Source Code
+.\src\switch_driver_tb.vhd=VHDL Source Code
+.\src\led_driver_tb.vhd=VHDL Source Code
+.\src\lab1_switch_led_tb.vhd=VHDL Source Code
+.\src\switch_driver_tb_runtest.do=Macro
+.\src\led_driver_tb_runtest.do=Macro
+.\src\lab1_switch_led_tb_runtest.do=Macro
+.\src\lab1_switch_led_tb_runtest_MAIN.do=Macro
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration

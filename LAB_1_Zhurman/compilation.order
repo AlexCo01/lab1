@@ -1,0 +1,8 @@
+.\src\control_FSM.vhd
+.\src\lab1_switch_led.vhd
+.\src\led_driver.vhd
+.\src\switch_driver.vhd
+.\src\switch_led_tester.vhd
+.\src\switch_driver_tb.vhd
+.\src\led_driver_tb.vhd
+.\src\lab1_switch_led_tb.vhd

@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:/My_Designs/LAB_1_Zhurman/LAB_1_Zhurman/src/led_driver_tb.vhd" 
+MESSAGE "Compile Entity "led_driver_tb"" 
+MESSAGE "Compile Architecture "led_driver_tb_arch" of Entity "led_driver_tb"" 
+MESSAGE "Compile Configuration "led_driver_tb_conf"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]" 
